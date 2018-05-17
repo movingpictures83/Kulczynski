@@ -1,0 +1,2 @@
+Prefix plugins/Kulczynski/example/
+Plugin Kulczynski inputfile abundN.csv outputfile abundN.kulczynski.csv
