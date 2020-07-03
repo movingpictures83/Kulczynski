@@ -2,7 +2,8 @@
 # Language: R
 # Input: CSV (abundances)
 # Output: CSV (dissimilarities)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: vegan_2.5.6
 
 PluMA plugin to compute dissimilarity, using Kulczynski's method (Kulczynski, 1927).
 The plugin accepts input in the form of a CSV file, with rows representing samples and columns
